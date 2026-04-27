@@ -251,16 +251,6 @@ Rules:
 - [ ] ตั้ง hooks ที่ block งานอันตรายและ enforce quality
 - [ ] เพิ่ม feature ใหม่ใน project ที่ไม่รู้จักมาก่อน ภายใน 1 ชั่วโมง
 
----
-
-## หลังจบ Workshop
-
-**สัปดาห์ที่ 1** — เอา `claude-template.zip` ไปใช้กับ project จริงที่ทำงาน  
-**สัปดาห์ที่ 2** — เขียน skill เฉพาะของ project ตัวเอง  
-**สัปดาห์ที่ 3** — ลองสร้าง MCP server เอง  
-**สัปดาห์ที่ 4** — แชร์ `.claude/` template ให้ทีม
-
----
 
 ## Resources
 
